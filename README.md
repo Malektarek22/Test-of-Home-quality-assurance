@@ -1,1 +1,3 @@
 # Test-of-Home-quality-assurance
+This project aims to provide comprehensive planning of software testing of the taste of home website, which has a lot of features. This test strategy is intended to confirm that the functions work right. This test plan strategy is Functional Test Plan: This kind of test strategy is concentrated on evaluating the software system's or product's usefulness. It contains test cases that cover all the system's or item's functional specifications as well as any relevant business procedures or routines.
+Scope: As testing progresses towards system integration, it will start at the strategic level. In order to understand the needs of the customer, this project will primarily evaluate the website's primary system functionality.
